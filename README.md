@@ -1,4 +1,4 @@
-# goit-markup-hw-02
+# goit-markup-hw-03
 
-second homework on GOIT course
-can be seen here: https://michalmazurdev.github.io/goit-markup-hw-02/
+third homework on GOIT course
+can be seen here: https://michalmazurdev.github.io/goit-markup-hw-03/
