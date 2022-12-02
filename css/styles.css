@@ -39,6 +39,7 @@ p {
 .top-section {
   background-color: var(--white);
   border-bottom: 1px solid #ececec;
+  padding: 24px 0 25px 0;
 }
 .top-section > div {
   padding: 0 27px 0 15px;
