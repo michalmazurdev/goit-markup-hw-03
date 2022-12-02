@@ -281,6 +281,8 @@ nav a:focus,
 .portfolio-tiles figure {
   margin: 0;
   border: 1px solid var(--border-gray);
+  display: flex;
+  flex-direction: column;
 }
 .portfolio-tiles li {
   width: calc((100% - 60px) / 3);
@@ -292,10 +294,14 @@ nav a:focus,
   letter-spacing: 0.06em;
   color: var(--almost-black);
   text-indent: 24px;
+  margin-top: 20px;
+  margin-bottom: 4px;
 }
+
 .portfolio-section p {
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
   text-indent: 24px;
+  margin-bottom: 20px;
 }
