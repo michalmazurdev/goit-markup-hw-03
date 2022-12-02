@@ -282,12 +282,16 @@ nav a:focus,
 
 .portfolio-tiles figure {
   margin: 0;
-  border: 1px solid var(--border-gray);
   display: flex;
   flex-direction: column;
 }
 .portfolio-tiles li {
   width: calc((100% - 60px) / 3);
+}
+.portfolio-tiles figcaption {
+  border-left: 1px solid var(--border-gray);
+  border-right: 1px solid var(--border-gray);
+  border-bottom: 1px solid var(--border-gray);
 }
 .portfolio-section h4 {
   font-weight: 700;
