@@ -132,7 +132,8 @@ nav a:focus,
 .second-section div,
 .thrid-section div,
 .fourth-section div,
-.portfolio-section div {
+.portfolio-section div,
+.bottom-style div {
   padding-left: 15px;
   padding-right: 15px;
 }
